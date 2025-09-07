@@ -1,2 +1,9 @@
 # awesome-llm-recommender-system-papers
-llm + recommender system papers &amp; works
+
+记录大模型+推荐的相关工作，包括公司和对应的论文，不定时同步。
+
++ 原始repo：[https://github.com/daiwk/collections](https://github.com/daiwk/collections)
++ 原始网站：[https://www.daiwk.net/](https://www.daiwk.net/)
++ 本文原始markdown：[https://github.com/daiwk/collections/blob/master/posts/llm_recommend.md.raw](https://github.com/daiwk/collections/blob/master/posts/llm_recommend.md.raw)
++ 本文原始pdf：[https://github.com/daiwk/collections/blob/master/pdfs/llm_recommend.pdf](https://github.com/daiwk/collections/blob/master/pdfs/llm_recommend.pdf)
++ 本文网页版：[https://www.daiwk.net/1.7.llm_recommend](https://www.daiwk.net/1.7.llm_recommend)

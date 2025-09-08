@@ -44,6 +44,7 @@
   + Pinterest的PinFM
   + 小红书的GenRank
   + 百度的COBRA
+  + 百度的UNIQUE
   + 网易云音乐的Climber
   + Yandex的ARGUS
 + LLM+推荐：输入ID/SID（工业界+没落地）
@@ -116,11 +117,12 @@
   + GPLR SIGIR25
   + guided embedding
   + GMC
-+ LLM+推荐：foundation model/蒸馏
-  + ExFM
-  + Foundation-Expert Paradigm
-  + SLMRec
-  + GAVE
++ LLM+推荐：Foundation/蒸馏/其他
+  + Meta的ExFM
+  + Meta的Foundation-Expert Paradigm
+  + 蒸馏：SLMRec
+  + Pinterest的DERM
+  + 生成式出价GAVE
 + LLM+推荐小结
   + 输入ID/SID
   + 输入文本
@@ -158,6 +160,8 @@
   + Google的item冷启
   + 快手的CAVE
   + 美团的NGA
-  + DGenCTR
+  + 阿里的DGenCTR
+  + 快手的DimeRec
   + Pinterest的TransAct V2
   + Pinterest的multi-faceted预训练
+  + Pinterest的DRL-PUT

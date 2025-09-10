@@ -37,7 +37,7 @@
   + 阿里的REG4Rec
   + 快手的RecGPT
   + 快手的OneRec（听说比较扯淡）
-  + 字节的LMN
+  + 快手的OneLoc
   + 字节的LONGER
   + 字节的Next-User Retrieval
   + 字节的RankMixer
@@ -67,16 +67,14 @@
   + 阿里的URM
   + 阿里的RecGPT
   + 阿里的SaviorRec
+  + 快手的LSVCR
   + 快手的LEARN
   + 快手的LARM
   + 快手的LCU
   + 快手的KuaiMod
-  + 快手的OneSug
-  + 快手的GREAT
   + 快手的R4ec
   + 快手的DAS
   + 快手的TrackRec
-  + 快手的OneSearch
   + 字节的HLLM-Creator
   + 腾讯的LEADRE
   + 微信的PRECISE Recsys24
@@ -95,7 +93,6 @@
   + 阿里的SLIM
   + 阿里的KSER
   + 快手的LLM-CF
-  + 百度的Agent4Ranking
   + 丰田的SimUSER
   + 腾讯的ECR Recsys24
   + OPPO的DLLM2REC（没落地）
@@ -121,15 +118,17 @@
 + LLM+推荐：Foundation/蒸馏/其他
   + Meta的ExFM
   + Meta的Foundation-Expert Paradigm
+  + 腾讯的LFM4Ads
   + 蒸馏：SLMRec
   + Pinterest的DERM
-  + 生成式出价GAVE
+  + 生成式出价：快手的GAVE
+  + 生成式出价：美团的GRAD
 + LLM+推荐小结
   + 输入ID/SID
   + 输入文本
   + 其他套路
   + 讨论
-+ LLM for 检索
++ LLM embedding
   + Gecko
   + ChatRetriever
   + Instructor
@@ -138,31 +137,39 @@
   + E5_mistral-7b
   + GRIT
   + LLM2Vec
-  + GDR
-  + 阿里搜索广告
   + SyCL
   + RARE
   + gemini embedding
   + BGE-code/VL
   + UniME
-  + 百度召回
   + Qwen3-emb
-  + 百度AI搜索
++ LLM+搜索
+  + Pinterest的搜索相关性优化
+  + 百度的Agent4Ranking
+  + 百度的搜索广告召回
+  + 百度的AI搜索
   + 美团的IterQR
+  + 阿里搜索广告
+  + 快手的OneSearch
+  + 快手的OneSug
+  + 快手的GREAT
   + 字节的SUMMA
+  + 小红书的GDR
 + 传统推荐模型
-  + 推荐生态系统
-  + 发现性
-  + KuaiFormer
-  + Pinnerformer
-  + Meta的MTMH
-  + 阿里的ULIM
-  + Meta的CABB建模
+  + Google的推荐生态系统
+  + Google的发现性
   + Google的item冷启
-  + 快手的CAVE
+  + Meta的MTMH
+  + Meta的CABB建模
   + 美团的NGA
+  + 阿里的ULIM
   + 阿里的DGenCTR
+  + 快手的KuaiFormer
+  + 快手的CAVE
   + 快手的DimeRec
+  + 字节的LMN
+  + 字节的AsymDiffRec
+  + Pinterest的Pinnerformer
   + Pinterest的TransAct V2
   + Pinterest的multi-faceted预训练
   + Pinterest的DRL-PUT

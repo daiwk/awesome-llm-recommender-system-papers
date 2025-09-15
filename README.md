@@ -64,6 +64,7 @@
   + 阿里的BEQUE
   + 阿里的BAHE
   + 阿里的LUM
+  + 阿里的SERAL
   + 阿里的URM
   + 阿里的RecGPT
   + 阿里的SaviorRec
@@ -80,6 +81,7 @@
   + 微信的PRECISE Recsys24
   + Spotify的LLM Preview生成
   + 华为的KAR
+  + 华为的LLMTreeRec
   + 华为的LASER
   + 小红书的NoteLLM
   + 小红书的NoteLLM-2

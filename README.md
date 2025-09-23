@@ -35,6 +35,7 @@
   + 阿里的GPSD
   + 阿里的TBGRecall
   + 阿里的REG4Rec
+  + 阿里的MMQ
   + 快手的RecGPT
   + 快手的OneRec（听说比较扯淡）
   + 快手的OneLoc
@@ -90,6 +91,7 @@
 + LLM+推荐：输入文本（工业界+没落地）
   + Google的ILM
   + Google的STAR
+  + Google的高效item id生成
   + Meta的EmbSum
   + 美团的PIGEON
   + 阿里的SLIM

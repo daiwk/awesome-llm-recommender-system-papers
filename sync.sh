@@ -5,7 +5,6 @@ cat readme.pre llm_recommend.md > README.md
 
 rm ./llm_recommend.md.raw llm_recommend.md
 rm ./llm_recommend.pdf
-rm 
 git add .
 git commit -m 'fix'
 git push
